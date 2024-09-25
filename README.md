@@ -20,4 +20,4 @@ Conexões com a Protoboard:
 Use a protoboard para facilitar as conexões entre os LEDs, resistores e o Arduino.
 Utilize os fios de conexão (jumpers) para ligar os pinos do Arduino aos componentes montados na protoboard.
 
-![Mighty Wluff (3)](https://github.com/user-attachments/assets/d72a82bf-8f44-4c1c-beaf-ac29928bae9f)
+![Mighty Wluff (10)](https://github.com/user-attachments/assets/9f62f93b-831a-4105-b002-b9c19e3e7f70)
